@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github!;Let+me+introduce+myself...)](https://git.io/typing-svg)
-
 ## Hi I'm Pablo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Pablo Maffioli, a Full Stack Web Developer and a Mentor on [Self Mod X](https://www.scott-coates.com/group-project-signup-usa-can-eu). I spend most of my time coding outstanding projects and helping other programmers level up their skills.
