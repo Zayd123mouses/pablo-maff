@@ -25,10 +25,6 @@ I'm Pablo Maffioli, a Full Stack Web Developer and a Mentor on [Self Mod X](http
 - :paperclip: [My Resume/CV](https://github.com/pablo-maff/pablo-maff/blob/main/resumes/Pablo%20Maffioli%20Github%20Resume.pdf)
 - :email: pablo.maff.076@gmail.com
 
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pablo-maff.pablo-maff)
-
 <details>
 <summary>
   Github Stats
@@ -40,9 +36,8 @@ I'm Pablo Maffioli, a Full Stack Web Developer and a Mentor on [Self Mod X](http
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-maff&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+#### Profile Visits
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pablo-maff.pablo-maff)
+
+</details>
